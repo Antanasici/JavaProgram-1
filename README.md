@@ -90,3 +90,6 @@ You entered string "Charc"
 The following matches have been found:-
 Great White Shark - Latin name: CHARCharodon CHARCharias
 ```
+## Meta
+
+Antanas Icikovic – [LinkedIn](www.linkedin.com/in/antanas-icikovic) – Find me here!
